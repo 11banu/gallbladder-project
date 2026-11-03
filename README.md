@@ -44,4 +44,4 @@ The model predicts whether the patient has a risk of gallbladder cancer based on
 - Deploy the project online
 
 ## Author
-Bhanushree R
+Bhanushree R https://github.com/11banu
